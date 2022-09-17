@@ -2,12 +2,12 @@
 
 ![preview](./.github/preview.png)
 
->Triha Explorer
-
-Projeto desenvolvido no evento Next Level Week da Rocketseat
 
 
-[ 🔗 Clque aqui para acessar](/)
+Desafio Extra construído com os conhecimentos aprendidos no evento Next Level Week da Rocketseat.
+
+
+[ 🔗 Clque aqui para acessar](https://carol-vserra.github.io/SeriesandMovies/)
 
 
 ## 🔧 Tecnologias ##
