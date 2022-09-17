@@ -11,7 +11,7 @@ ul{
 body{
     background-image: url(./assets/Fundo.jpg);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover auto;
     background-repeat: no-repeat;
     background-color: #121214;
 }
